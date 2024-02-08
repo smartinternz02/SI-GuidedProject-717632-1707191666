@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_002_Search_for_product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b2baec4-a7ca-4f3a-b311-7a0eae44b7eb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3bdd0aa2-02bf-46c7-8d84-865a8af92c0e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36fa4d36-f94a-41a0-b86c-9b9dcf2a972e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'rathoddevanshi1107@gmail.com'</defaultValue>
+      <description></description>
+      <id>3bdd0aa2-02bf-46c7-8d84-865a8af92c0e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Devanshi@1107'</defaultValue>
+      <description></description>
+      <id>36fa4d36-f94a-41a0-b86c-9b9dcf2a972e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_005_Amazon_logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b09cdeaa-f8de-44cb-a35b-fce64f15abe6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>79b87935-c8d0-41be-b1e9-1c1c2a029bfe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7788f14b-547e-482e-8827-14b323f65a66</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'rathoddevanshi1107@gmail.com'</defaultValue>
+      <description></description>
+      <id>79b87935-c8d0-41be-b1e9-1c1c2a029bfe</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Devanshi@1107'</defaultValue>
+      <description></description>
+      <id>7788f14b-547e-482e-8827-14b323f65a66</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

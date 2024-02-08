@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Login_Excel,Chrome 121.0.0.0,,,07-02-2024 10:34:07,07-02-2024 10:34:42,35.073s,FAILED
+,,,,,,,
+Test Cases/Amazon/TC_001_Amazon_login,Chrome 121.0.0.0,,,07-02-2024 10:34:07,07-02-2024 10:34:42,34.877s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,07-02-2024 10:34:08,07-02-2024 10:34:09,1.566s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,07-02-2024 10:34:09,07-02-2024 10:34:10,0.890s,PASSED
+"click(findTestObject(""Object Repository/Amazon_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Sign in""))",Chrome 121.0.0.0,,,07-02-2024 10:34:10,07-02-2024 10:34:42,32.169s,FAILED
